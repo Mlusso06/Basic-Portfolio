@@ -1,16 +1,36 @@
+head {
+padding: 50px;
+border-bottom: 5px solid #cccccc;
+float:
+
+
+}
+
+
 #myName {
     color: white;
+
+
 }
 
 
 #aboutMe {
-    Padding: 50x;
-    background: white;
+    
+    Padding: 30px;
+    background: red;
     margin-top: 30px;
-   
+    
+}
 
+#aboutMe2 {
+    padding: 50px;
+    float: right;
+    background-color: #ffffff;
+    text-align: center;
+    color: #777777
 
 }
+
 
 h1 {
     padding: 30px;
@@ -22,14 +42,24 @@ img {
 }
 
 p {
-    padding: 45px;
+    /*padding: 45px;
     background-color: red;
-    float: left;
+    float: left; */
 
 }
 
 div {
 
     clear: both;
+
+}
+
+#footerId {
+    padding-top: 30px;
+    margin-top: 30%;
+    color: #eee;
+    background-color: #666666;
+    text-align: center;
+
 
 }
