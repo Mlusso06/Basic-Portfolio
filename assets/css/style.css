@@ -4,8 +4,8 @@
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 1.5em;
     background: #4aaaa5;
-    padding: 25px;
-    width: 200px;
+    padding: 20px;
+    width: 180px;
     text-align: center;
 }
 
@@ -22,12 +22,16 @@
 
 }
 
-
-
 h4 {
 
 }
 
+a {
+    text-decoration: none;
+    display: inline;
+
+
+}
 
 div {
 
@@ -70,13 +74,14 @@ div {
 
 }
 
-.footPg1, 
-.push {
+.footPg1
+    {
+    flex-shrink: 0; 
+    height: 50px;   
     color: #eee;
     background-color: #666666;
-    text-align: center;
-    height: 20px;
-    
+    text-align: center;    
+    border-top: 8px solid #4aaaa5;
 
 
 }
