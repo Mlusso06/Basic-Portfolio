@@ -1,51 +1,67 @@
-head {
-padding: 50px;
-border-bottom: 5px solid #cccccc;
-float:
+ 
+#myName {
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1.5em;
+    background: #4aaaa5;
+    padding: 25px;
+    width: 200px;
+    text-align: center;
+}
 
+.contentBox {
+    width: 960px;
+    padding: 25px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-color: #666666;
+    border-width: 6px;
+    
 
 }
 
 
-#myName {
-    color: white;
+
+h4 {
+
+}
+
+
+div {
 
 
 }
 
 
 #aboutMe {
-    
-    Padding: 30px;
-    background: red;
-    margin-top: 30px;
-    
+    Padding: 10px;    
+    color: #4aaaa5;
+        
 }
 
 #aboutMe2 {
-    padding: 50px;
-    float: right;
+    
+    float: left;
     background-color: #ffffff;
     text-align: center;
     color: #777777
 
 }
 
-
 h1 {
-    padding: 30px;
-    width: 200px;
-    background-color: #4aaaa5;
+    
+    
 }
 img {
     float: left;
 }
 
 p {
-    /*padding: 45px;
-    background-color: red;
-    float: left; */
-
+    padding: 5px;
+    text-align: center;
+    font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 div {
@@ -54,12 +70,13 @@ div {
 
 }
 
-#footerId {
-    padding-top: 30px;
-    margin-top: 30%;
+.footPg1, 
+.push {
     color: #eee;
     background-color: #666666;
     text-align: center;
+    height: 20px;
+    
 
 
 }
