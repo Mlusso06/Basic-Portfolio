@@ -28,7 +28,7 @@ body {
 
 .contentBox {
     width: 960px;
-    padding: 25px;
+    padding: 10px;
     margin: auto;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -43,9 +43,7 @@ body {
 h4 {
 
     margin-right: 30%;
-   
-
-}
+   }
 
 a {
     
@@ -53,14 +51,7 @@ a {
     display: inline;
 }
 
-div {
 
-
-}
-.next {
-
-    
-}
 
 #aboutMe {
     Padding: 10px;    
@@ -83,11 +74,13 @@ h1 {
 }
 img {
     float: left;
+    margin-right: 1%;
+    margin-top: 1%;
 }
 
 p {
     padding: 5px;
-    text-align: center;
+    text-align: left;
     font-family: "Arial", 'Helvetica Neue', Helvetica, sans-serif;
 }
 
