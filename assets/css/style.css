@@ -1,4 +1,10 @@
- 
+
+body {
+    background-image: url("../images/gravel.png");
+    
+
+}
+
 #myName {
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -7,6 +13,7 @@
     padding: 20px;
     width: 180px;
     text-align: center;
+    margin-left: 20%;
 }
 
 .contentBox {
@@ -16,8 +23,9 @@
     margin-top: 100px;
     margin-bottom: 100px;
     border-style: solid;
-    border-color: #666666;
-    border-width: 6px;
+    border-color: #dddddd;
+    border-width: 1px;
+    background-color: #ffffff
     
 
 }
@@ -29,15 +37,16 @@ h4 {
 a {
     text-decoration: none;
     display: inline;
-
-
 }
 
 div {
 
 
 }
+.next {
 
+    
+}
 
 #aboutMe {
     Padding: 10px;    
@@ -55,7 +64,7 @@ div {
 }
 
 h1 {
-    
+    font-family: 'Georgia', Times, Times New Roman, serif;
     
 }
 img {
