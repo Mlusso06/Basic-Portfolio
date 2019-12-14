@@ -92,6 +92,7 @@ a {
 #aboutMe {
     Padding: 1px;
     color: #4aaaa5;
+    font-size: 1.5em;
 }
 
 #portfolio {
@@ -104,9 +105,9 @@ a {
     color: #4aaaa5;
 }
 
-h1 {
+h2 {
     font-family: "Georgia", Times, Times New Roman, serif;
-    font-size: 1.5em;
+    font-size: 5.5em;
     font-weight: 800;
 }
 
