@@ -184,9 +184,7 @@ input[type=submit]:hover {
     position: absolute;
     top: 10%;
     left: 1%;
-
 }
-
 
 .imgBox .btn1 {
     position: absolute;
@@ -238,6 +236,70 @@ input[type=submit]:hover {
     border-radius: 5px;
     text-align: center;
 }
+
 .imgBox2 .btn1:hover {
     background-color: aqua;
     color: bisque;
+}
+
+#imgThree {
+    border-radius: 1rem;
+    border: #ccc solid 1px;
+}
+
+.imgBox3 {
+    position: absolute;
+    top: 60%;
+    left: 1%;
+}
+
+.imgBox3 .btn1 {
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    background-color: #4aaaa5;
+    color: #dddddd;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.imgBox3 .btn1:hover {
+    background-color: aqua;
+    color: bisque;
+}
+
+#imgFour {
+    border-radius: 1rem;
+    border: #ccc solid 1px;
+}
+
+.imgBox4 {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+.imgBox4 .btn1 {
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    background-color: #4aaaa5;
+    color: #dddddd;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.imgBox4 .btn1:hover {
+    background-color: aqua;
+    color: bisque;
+}
