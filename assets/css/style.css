@@ -100,11 +100,19 @@ a {
 #portfolio {
     Padding: 1px;
     color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-size: 1.5em;
+    font-weight: 600;
 }
 
 #contact {
     Padding: 1px;
     color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-size: 1.5em;
+    font-weight: 600;
 }
 
 h2 {
